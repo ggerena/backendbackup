@@ -1,0 +1,19 @@
+{
+  "name": "backendbackup",
+  "version": "1.0.0",
+  "description": "Store the back-end json responses on local files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggerena/backendbackup.git"
+  },
+  "author": "Gery Gerena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggerena/backendbackup/issues"
+  },
+  "homepage": "https://github.com/ggerena/backendbackup#readme"
+}
